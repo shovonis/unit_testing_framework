@@ -1,0 +1,8 @@
+.*
+*.class
+!.gitignore
+*.iml
+target
+build
+out
+.idea
